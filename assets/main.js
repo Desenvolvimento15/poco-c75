@@ -5,7 +5,7 @@
       autoplaySpeed: 5000,
       autoplay: true, 
       dots: false, 
-      arrows: false,
+      arrows: true,
       infinite: true, // Garante o loop infinito
       cssEase: 'linear',
       variableWidth: true// Evita que os slides tenham larguras variáveis
